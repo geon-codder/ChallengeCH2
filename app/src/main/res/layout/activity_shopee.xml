@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include
+        layout="@layout/sp_in1"/>
+    <include
+        layout="@layout/sp_in2"/>
+    <include
+        layout="@layout/sp_in3"/>
+    <include
+        layout="@layout/sp_in4"/>
+    <include
+        layout="@layout/sp_in5"/>
+    <include
+        layout="@layout/sp_in6"/>
+
+</LinearLayout>

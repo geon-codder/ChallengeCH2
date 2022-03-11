@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjek/ChallengeCH2/app/src/main/res/layout/activity_gojek.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjek/ChallengeCH2/app/src/main/res/layout/activity_gojeknavigasi.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjek/ChallengeCH2/app/src/main/res/layout/activity_main.xml" value="0.22916666666666666" />
+        <entry key="..\:/AndroidStudioProjek/ChallengeCH2/app/src/main/res/layout/activity_shopee.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjek/ChallengeCH2/app/src/main/res/layout/fragment_notifications.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidStudioProjek/ChallengeCH2/app/src/main/res/layout/in1_gojek.xml" value="0.67" />
+        <entry key="..\:/AndroidStudioProjek/ChallengeCH2/app/src/main/res/layout/in2_gojek.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjek/ChallengeCH2/app/src/main/res/layout/in3_gojek.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjek/ChallengeCH2/app/src/main/res/layout/in4_gojek.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidStudioProjek/ChallengeCH2/app/src/main/res/layout/in5_gojek.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjek/ChallengeCH2/app/src/main/res/layout/insearch_gojek.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidStudioProjek/ChallengeCH2/app/src/main/res/layout/list_in1_gojek.xml" value="0.5" />
+        <entry key="..\:/AndroidStudioProjek/ChallengeCH2/app/src/main/res/layout/list_in2_gojek.xml" value="0.75" />
+        <entry key="..\:/AndroidStudioProjek/ChallengeCH2/app/src/main/res/layout/sp_in1.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjek/ChallengeCH2/app/src/main/res/layout/sp_in2.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjek/ChallengeCH2/app/src/main/res/layout/sp_in3.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjek/ChallengeCH2/app/src/main/res/layout/sp_in4.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidStudioProjek/ChallengeCH2/app/src/main/res/layout/sp_in5.xml" value="0.22447916666666667" />
+        <entry key="..\:/AndroidStudioProjek/ChallengeCH2/app/src/main/res/layout/sp_in6.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:orientation="horizontal">
+
+<!--    Beranda-->
+    <LinearLayout
+        android:layout_width="70dp"
+        android:layout_height="60dp"
+        android:orientation="vertical"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="25dp">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:src="@drawable/go_beranda_icon"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Beranda"
+            android:layout_marginStart="12dp"/>
+    </LinearLayout>
+
+<!--    Promo-->
+    <LinearLayout
+        android:layout_width="70dp"
+        android:layout_height="60dp"
+        android:orientation="vertical"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="25dp">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:src="@drawable/go_promo_icon"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Promo"
+            android:layout_marginStart="12dp"/>
+    </LinearLayout>
+
+<!--    Pesanan-->
+
+    <LinearLayout
+        android:layout_width="70dp"
+        android:layout_height="60dp"
+        android:orientation="vertical"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="25dp">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:src="@drawable/go_pesanan_icon"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pesanan"
+            android:layout_marginStart="12dp"/>
+    </LinearLayout>
+
+<!--    Chat-->
+
+    <LinearLayout
+        android:layout_width="70dp"
+        android:layout_height="60dp"
+        android:orientation="vertical"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="25dp">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:src="@drawable/go_chat_icon"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Chat"
+            android:layout_marginStart="16dp"/>
+    </LinearLayout>
+
+</LinearLayout>
